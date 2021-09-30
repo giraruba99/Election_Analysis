@@ -24,7 +24,7 @@
 * The script can be used to run election analysis on smaller scale (like county or city level) and on larger scale (statewide or country wide races).
 * Extra caution needs to be followed when modifying the script for other election analysises.
 * The script can be used for other elctions with the folowing modifications:
- - We can add a script determining the vote count and vote percentage of each candidate in the three counties of this precinct.
- - The script can be modified in a way if there is an outright winner, or there will be a runoff.
+    - We can add a script determining the vote count and vote percentage of each candidate in the three counties of this precinct.
+    - The script can be modified in a way if there is an outright winner, or there will be a runoff.
 
 
