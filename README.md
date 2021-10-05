@@ -9,8 +9,8 @@
 * To over all present the election commission a scientific data analysis on which they will decide.
 ## Election-Audit Results
 
-![Election Results P-1](https://user-images.githubusercontent.com/89214854/136095610-c783e4b0-7226-46bb-be2b-a8ba4453b8d4.png)
-![Election Results P-2](https://user-images.githubusercontent.com/89214854/136095653-a750b3b1-620c-4465-ace6-42fe6ab2d08e.png)
+![Election Results P-1](https://user-images.githubusercontent.com/89214854/136095610-c783e4b0-7226-46bb-be2b-a8ba4453b8d4.png)   ![Election Results P-2](https://user-images.githubusercontent.com/89214854/136095653-a750b3b1-620c-4465-ace6-42fe6ab2d08e.png)
+
 
 
 * The total number of votes cast in this congressional election was 369,711.
